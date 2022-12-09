@@ -8,4 +8,6 @@
 | Brief information about yourself and goals:  | All my life working on a lathe with numerical control. In the recent past, I thought about IT specialty. I tried to learn Python on my own. Now enrolled in a course at RS School |
 | Skills:  | Basic understanding of Python syntax  |
 | English level: | A1 (elementary) |
-| Content Cell  | Content Cell  |
+| Code example:: |function multiply(a, b){ ==> a * b ==> } ==> multiply = function (a, b) { ==> return a * b; ==> }|
+
+
